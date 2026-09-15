@@ -1,8 +1,3 @@
-nyc_taxi
-==============================
-
-kaggle _taxi challange
-
 Project Organization
 ------------
 
