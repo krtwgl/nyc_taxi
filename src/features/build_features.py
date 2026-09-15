@@ -10,7 +10,7 @@ def load_data(data_path):
     # Load your dataset from a given path
     df = pd.read_csv(data_path)
     return df
-
+ 
 def save_data(train, test, output_path):
     # Save the split datasets to the specified output path
     pathlib.Path(output_path).mkdir(parents=True, exist_ok=True)
